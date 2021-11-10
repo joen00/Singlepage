@@ -73,7 +73,7 @@ const Button3=(state)=>{
        
         dispatch(buttontext(""));
         dispatch(showResult(<section>
-            <Goaltext>목표나 더 배우고 싶은 것 어떤 분야에 대해서 뭘 하고싶은지 </Goaltext>
+            <Goaltext>좋은 개발자가 되고싶습니다 </Goaltext>
             <Section01><img src={'06.png'} width="900" height="300"/></Section01>
             <Section02><img src={'07.jpg'} width="900" height="300"/></Section02>
         </section>));
